@@ -12,7 +12,7 @@ def calcular_cateto_faltante(hipotenusa, cateto_conocido):
 def main():
     
     st.set_page_config(
-    page_title="Calculadora",
+    page_title="Calculadora de Triángulo Rectángulo",
     page_icon="🧊",
     layout="centered",
     initial_sidebar_state="expanded",
